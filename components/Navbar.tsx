@@ -116,8 +116,8 @@ export default function Navbar() {
               src="/logo.png"
               alt="Bake Heaven"
               className="
-                h-10
-                w-10
+                h-18
+                w-18
                 rounded-full
                 object-cover
               "
