@@ -114,7 +114,7 @@ export default function Navbar() {
 
             <img
               src="/logo.png"
-              alt="The Cake Box Lady"
+              alt="Bake Heaven"
               className="
                 h-10
                 w-10
@@ -137,7 +137,7 @@ export default function Navbar() {
                 text-[#a97967]
               "
             >
-              The Cake Box Lady
+              Bake Heaven
             </span>
           </Link>
 
@@ -259,7 +259,7 @@ export default function Navbar() {
                   text-[#a97967]
                 "
               >
-                The Cake Box Lady
+                Bake Heaven
               </span>
 
               <button

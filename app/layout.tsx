@@ -12,7 +12,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 const _playfair = Playfair_Display({ subsets: ["latin"], variable: '--font-serif' });
 
 export const metadata: Metadata = {
-  title: 'The Cake Box Lady | Handcrafted Custom Cakes',
+  title: 'Bake Heaven | Handcrafted Custom Cakes',
   description: 'Handcrafted custom celebration cakes designed with warmth, artistry, and emotion. Premium custom cake for every celebration.',
   generator: 'v0.app',
   icons: {

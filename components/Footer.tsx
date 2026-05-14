@@ -4,7 +4,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto grid md:grid-cols-4 gap-12">
           <div className="md:col-span-2">
             <h2 className="text-4xl font-serif mb-6">
-              The Cake Box Lady
+              Bake Heaven
             </h2>
   
             <p className="text-[#6E4B3A] max-w-md leading-relaxed">
@@ -37,7 +37,7 @@ export default function Footer() {
         </div>
   
         <div className="border-t border-[#dcc8b8] mt-16 pt-8 text-sm text-[#8a6b5c] text-center">
-          © 2026 The Cake Box Lady. Crafted with love.
+          © 2026 Bake Heaven. Crafted with love.
         </div>
       </footer>
     )

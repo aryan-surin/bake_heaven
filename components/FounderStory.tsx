@@ -27,7 +27,7 @@ export default function FounderStory() {
           </h2>
 
           <p className="text-lg leading-relaxed text-[#6E4B3A] mb-6">
-            The Cake Box Lady was born from a passion for handcrafted
+            Bake Heaven was born from a passion for handcrafted
             celebrations and meaningful moments shared with loved ones.
           </p>
 

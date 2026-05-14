@@ -455,7 +455,7 @@ export function Hero() {
             >
 
               <Image
-                src="/hero-cake.jpg"
+                src="/hero_bake_heaven.png"
                 alt="Luxury handcrafted floral cake"
 
                 fill
@@ -532,7 +532,7 @@ export function Hero() {
             >
 
               <Image
-                src="/floral-accent.jpg"
+                src="/floral-accent.png"
                 alt="Floral accent"
 
                 fill
